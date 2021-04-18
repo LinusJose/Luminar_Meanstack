@@ -1,0 +1,58 @@
+h1{
+    font-family: 'Gochi Hand', cursive;
+    text-align: center;
+    color: black;
+    
+}
+
+.main{
+    max-width: 800%;
+    height: 500px;
+    background-color: black;
+
+    color: white;
+    justify-content: center;
+    justify-content: space-around;
+    display: flex;
+
+}
+.p1,.p2,.p3,.p4,.p5
+{
+    float: left;
+    width: 12%;
+    border: 1px solid white;
+    background-color: aqua;
+    height: 400px;
+
+}
+.container{
+    position: relative;
+    left: 10%;
+    
+    
+}
+.p1{
+    background-color:#036ffcd0;
+    position: relative;
+    right: 1%;
+    width: 12%;
+}
+.p2{
+    background-color: rgb(64, 224, 208);
+    position:relative;
+    left:1;
+} 
+.p3{background-color: rgba(144, 238, 144, 0.904);
+position:relative;
+left:2%
+}
+.p4{
+    background-color: rgba(255, 255, 0, 0.479);
+    position: relative;
+    left:3%
+}
+.p5{
+    background-color: red;
+    position: relative;
+    left: 4%;
+}

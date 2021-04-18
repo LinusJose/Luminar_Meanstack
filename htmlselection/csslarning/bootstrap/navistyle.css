@@ -1,0 +1,35 @@
+
+
+.luminar{
+    width: 100%;
+    height: 40px;
+    background:purple;
+    position: relative;
+}
+.first_link{
+    position: absolute;
+    left: 200px;
+    top: 8px;
+    color:white ;
+
+}
+.second_link{
+    position: absolute;
+    left: 1000px;
+    top: 8px;
+    color:white;
+}
+.navbar{
+    left: 200px;
+    position: absolute;    
+}
+div{
+    justify-content: space-around;
+    
+}
+h2{
+    color: violet;
+    text-align: center;
+    
+
+}

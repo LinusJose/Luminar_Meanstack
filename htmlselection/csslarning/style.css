@@ -1,0 +1,46 @@
+body{
+    background-color:white;
+}
+h1{
+    color: black;
+    text-align: center;
+    text-decoration:underline;
+    
+}
+div{
+    color:black; 
+    float: left;
+    width: 30%;
+    height: 350px;
+    width: 40;
+    height: 30%;
+    border-width: 2px;
+    border-style: solid;
+    border-color:blue;
+   
+}
+.First{
+    background-color:crimson;
+    margin-left: 1%;
+}
+img{
+    width: 100%;
+    
+}
+.Second{
+    background-color:blue;
+    margin-left: 3%;
+    
+}
+img{
+    width: 100%;
+}
+.Third{
+    background-color:yellow;
+    margin-left: 3%;
+
+}
+
+img{
+    width: 100%;
+}
